@@ -1,2 +1,2 @@
 # MYprojects
-I am learing.
+I am learning.
